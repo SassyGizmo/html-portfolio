@@ -1,3 +1,11 @@
-html{
-    background: rgb(66, 77, 189);
+h1, h2, h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: goldenrod;
+}
+
+#profile {
+    width: 200px;
+    height: 200px;
 }
